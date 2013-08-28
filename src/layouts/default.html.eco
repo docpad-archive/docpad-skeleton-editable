@@ -39,7 +39,7 @@
 
 	<header></header>
 	<article>
-		<%- @content %>
+		<%- @editable(@document, 'content', @content) %>
 	</article>
 	<footer></footer>
 
