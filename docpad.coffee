@@ -74,6 +74,14 @@ docpadConfig = {
 
 
 	# =================================
+	# DocPad Plugins
+
+	plugins:
+		restapi:
+			securityToken: 'blah'
+
+
+	# =================================
 	# DocPad Events
 
 	# Here we can define handlers for events that DocPad fires
