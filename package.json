@@ -46,6 +46,6 @@
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
-    "start": "node ./node_modules/docpad/bin/docpad-server run"
+    "start": "node ./node_modules/docpad/bin/docpad run"
   }
 }
