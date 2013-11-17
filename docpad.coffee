@@ -73,6 +73,10 @@ docpadConfig = {
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
 
+	collections:
+		authors: ->
+			@getFilesAtPath('authors')
+
 	# =================================
 	# DocPad Plugins
 
