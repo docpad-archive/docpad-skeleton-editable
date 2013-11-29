@@ -1,11 +1,8 @@
 ### cson
 {
   layout: "default"
-  title: "What now? 21"
+  title: "What no2d2"
 }
 ###
 
-## Not sure what to do now? Here's some useful links:
-
-- [DocPad Documentation](http://docpad.org/docs)
-- [IRC Chat Room](irc://irc.freenode.net/docpad)
+<p>Not sure what to do now? Here&#39;s some uadsadseful links:</p><ul><li><a href="http://docpad.org/docs">DocPad Documentation</a></li><li><a href="irc://irc.freenode.net/docpad">IRC Chat Room</a></li></ul>

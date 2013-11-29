@@ -83,7 +83,8 @@ docpadConfig = {
 	plugins:
 		restapi:
 			securityToken: 'blah'
-
+		inlinegui:
+			url: 'http://localhost:9779/'
 
 	# =================================
 	# DocPad Events

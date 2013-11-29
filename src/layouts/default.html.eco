@@ -38,10 +38,10 @@
     <![endif]-->
 
 	<header>
-		<h1><%= @document.title %></h1>
+		<%- @editable(item:@document, attribute:'title', element:'h1') %>
 	</header>
 	<article>
-		<%- @editable(@document, 'content', @content) %>
+		<%- @editable(item:@document, attribute:'content', value:@content) %>
 	</article>
 	<footer></footer>
 
