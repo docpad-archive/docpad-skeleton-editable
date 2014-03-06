@@ -31,13 +31,9 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "docpad": "~6.63.6",
-    "docpad-plugin-coffeescript": "~2.3.0",
+    "docpad": "~6.64.0",
     "docpad-plugin-eco": "~2.0.3",
     "docpad-plugin-marked": "~2.2.0",
-    "docpad-plugin-partials": "~2.8.1",
-    "docpad-plugin-stylus": "~2.6.0",
-    "docpad-plugin-text": "~2.3.2",
     "docpad-plugin-restapi": "~2.1.6",
     "docpad-plugin-inlinegui": "~2.0.3"
   },
